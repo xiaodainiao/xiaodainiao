@@ -19,7 +19,7 @@
 
 <img align="right" src="https://count.getloli.com/get/@:xiaodainiao?theme=rule34">
 
-## Hello 我是小呆鸟
+### Hello 我是小呆鸟
 
 热爱后端、热爱技术。喜欢参与一些开源项目的讨论。
 
@@ -54,15 +54,12 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-
 ### Open Source Projects
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xiaodainiao&repo=TikTokLite)]([https://github.com/xiaodainiao/TikTokLite])
-<br><br><br>
+<br>
 
 ### On Github 
 [![](https://activity-graph.herokuapp.com/graph?username=xiaodainiao&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=xiaodainiao&show_icons=true&theme=radical&count_private=true)
 
 ### Langue
