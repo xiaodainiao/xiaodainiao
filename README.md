@@ -26,14 +26,12 @@
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 :computer: 现实习于北京滴滴无限科技发展有限公司 网约车技术部-服务端技术QA
-
 :vulcan_salute: 持续关注 Goland、c++、分布式 不断精进不断学习.
-
 :writing_hand: 了解一些后端相关技术栈，热爱开源文化.
 
-### **技术栈:**
 
 
+### **Technology:**
 ![Goland](https://img.shields.io/badge/-Goland-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-%231572B6?style=flat-square&logo=c++)
 ![Python](https://img.shields.io/badge/-Python-%232C3A42?style=flat-square&logo=python)
@@ -57,18 +55,16 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 
-
-
-
-### 开源项目
+### Open Source Projects
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xiaodainiao&repo=TikTokLite)]([https://github.com/xiaodainiao/TikTokLite])
 <br><br><br>
 
-### Github 活跃度
-
+### On Github 
 [![](https://activity-graph.herokuapp.com/graph?username=xiaodainiao&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=xiaodainiao&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodainiao&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodainiao&layout=compact&langs_count=6)
+![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=xiaodainiao&show_icons=true&theme=radical&count_private=true)
+
+### Langue
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodainiao&layout=compact)](https://github.com/xiaodainiao)
+
