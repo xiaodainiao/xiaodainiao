@@ -21,6 +21,7 @@
 
 ### Hello 我是小呆鸟
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/105040964/205486218-b8a4f47d-6a8e-420e-bba6-0ddce8c4deac.gif" width="430" height="100%" />
 - 热爱后端、热爱技术。喜欢参与一些开源项目的讨论。
 
 - 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
@@ -33,7 +34,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/105040964/205486218-b8a4f47d-6a8e-420e-bba6-0ddce8c4deac.gif" width="430" height="100%" />
+
 
 ### **Technology:**
 ![Goland](https://img.shields.io/badge/-Goland-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
