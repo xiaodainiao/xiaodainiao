@@ -31,7 +31,7 @@
 
 - :writing_hand: 了解一些后端相关技术栈，热爱开源文化.
 
-
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 ### **Technology:**
 ![Goland](https://img.shields.io/badge/-Goland-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
