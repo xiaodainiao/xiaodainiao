@@ -33,16 +33,32 @@
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+
+![Goland](https://img.shields.io/badge/-Goland-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-%231572B6?style=flat-square&logo=c++)
+![Python](https://img.shields.io/badge/-Python-%232C3A42?style=flat-square&logo=python)
+
+
+![MySql](https://img.shields.io/badge/-MySql-%23F7DF1C?style=flat-square&logo=mysql&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Redis](https://img.shields.io/badge/-Redis-007ACC?style=flat-square&logo=redis&logoColor=white)
+![Zookeeper](https://img.shields.io/badge/-Zookeeper-%23EC4A3F?style=flat-square&logo=zookeeper&logoColor=ffffff)
+![Kafka](https://img.shields.io/badge/-Kafka-%234B32C3?style=flat-square&logo=kafka)
+![RabbitMq](https://img.shields.io/badge/-RabbitMq-%2300C7B7?style=flat-square&logo=rabbitmq&logoColor=ffffff)
+
+![Nginx](https://img.shields.io/badge/-Nginx-%23282C34?style=flat-square&logo=nginx)
+![Docker](https://img.shields.io/badge/-Docker-%23CC6699?style=flat-square&logo=docker&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-%232c3e50?style=flat-square&logo=linux)
+![RPC](https://img.shields.io/badge/-Rpc-%231a202c?style=flat-square&logo=rpc)
+
+
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+
+
+
 
 ### 开源项目
 
