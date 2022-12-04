@@ -27,7 +27,7 @@
 
 - :computer: 现实习于北京滴滴无限科技发展有限公司 网约车技术部-服务端技术QA
 
-- :vulcan_salute: 持续关注 Goland、c++、分布式 不断精进不断学习.
+- :vulcan_salute: 持续关注 Goland、c++、中间件、分布式不断精进不断学习.
 
 - :writing_hand: 了解一些后端相关技术栈，热爱开源文化.
 
