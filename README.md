@@ -16,7 +16,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**You just work hard, the rest is up to time**
 
-<img align="right" src="https://img-blog.csdnimg.cn/6736943b22214f579b706ec296bb10f1.gif" width = "300">
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/105040964/205486218-b8a4f47d-6a8e-420e-bba6-0ddce8c4deac.gif" width="430" height="100%" />
 
 ### Hello 我是小呆鸟
 
@@ -31,7 +32,7 @@
 
 - :writing_hand: 了解一些后端相关技术栈，热爱开源文化.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/105040964/205486218-b8a4f47d-6a8e-420e-bba6-0ddce8c4deac.gif" width="430" height="100%" />
+
 
 
 
@@ -62,6 +63,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 ### Open Source Projects
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaodainiao&repo=MemoryGo)]([https://github.com/xiaodainiao/MemoryGo])
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xiaodainiao&repo=TikTokLite)]([https://github.com/xiaodainiao/TikTokLite])
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xiaodainiao&repo=mprpc)]([https://github.com/xiaodainiao/mprpc])
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xiaodainiao&repo=json)]([https://github.com/xiaodainiao/json])
